@@ -6,6 +6,8 @@ This repo (and eventually the website) is an attempt to research and consolidate
 
 Testing is a complex mental activity and developing competence in it requires conscious effort. Here's to helping with that effort.
 
+Over 100 test techniques are believed to be in existence. Our initial goal will be to focus on the most popular.
+
 -----
 
 # Website:
@@ -20,9 +22,13 @@ Software testing is an investigation conducted to provide stakeholders with info
 
 Certain techniques will be better optimized for exposing some kinds of bugs and worse for others. Therefore it's best to ask which combination of techniques is best for a given project. The best combination of test techniques will be different for each project.
 
+- A test technique is a way of designing, running and interpreting the results of tests.
+- You can use any test technique in an exploratory or scripted way.
+
 ### Most common techniques:
 
 - Automated Testing
+- Combination Testing
 - Domain Testing
 - Flow Testing
 - Functional Testing
@@ -32,4 +38,12 @@ Certain techniques will be better optimized for exposing some kinds of bugs and 
 
 ### Characteristics:
 
-Each test technique can have one or more primary characteristics and several secondary characteristics.
+Each test technique helps us focus on a few characteristics. Some will have one or more primary characteristics and several secondary characteristics such as:
+
+- Scope
+- Coverage
+- Testers
+- Potential Problems (risks)
+- Activities
+- Evaluation / oracles
+- Desired result
